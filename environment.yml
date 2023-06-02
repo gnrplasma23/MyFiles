@@ -1,4 +1,4 @@
-name: simsopt
+name: simsopt2
 channels:
   - anaconda
   - conda-forge
