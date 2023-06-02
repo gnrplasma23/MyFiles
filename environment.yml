@@ -137,4 +137,4 @@ dependencies:
     - scipy==1.9.3
     - simsopt==0.6.1.dev164+gbc97b8b0
     - vmec==0.0.4
-prefix: /burg/home/gnr2113/.conda/envs/simenv
+prefix: /burg/home/gnr2113/.conda/envs/vas
